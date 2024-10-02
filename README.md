@@ -29,3 +29,17 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SaaraM1&show_icons=true&locale=en&theme=tokyonight" alt="SaaraM1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SaaraM1&&theme=tokyonight" alt="SaaraM1" /></p>
+
+## 📫 Contact Me
+
+<!--- LinkedIn: [Your LinkedIn Profile](Your LinkedIn Profile Link) -->
+- Portfolio: [https://saaram1.github.io/](https://saaram1.github.io/)  - Might be currently unavailable.
+- Email: saara.monkkonen@keuda.fi
+
+Feel free to reach out! Let's connect and collaborate on exciting projects.
+
+
+<!---
+SaaraM1/SaaraM1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
