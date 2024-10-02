@@ -34,6 +34,9 @@ Feel free to reach out! Let's connect and collaborate on exciting projects.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SaaraM1&&theme=tokyonight" alt="SaaraM1" /></p>
 
+##### 👇Cats are the best👇
+<img align="left" alt="Coding" width="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExajcxZDZocmxkemdmeTBwNjg3ZGUydWFoZXJqNWV3Znhla296cHZwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif">
+
 <!---
 SaaraM1/SaaraM1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
